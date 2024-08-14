@@ -15,7 +15,8 @@ This project focuses on developing a robust and accurate deep learning model for
 #### **User Interface**
 Below is an example of the user interface for the lung cancer detection application:
 
-![UI Screenshot 1](images/img1.png)
+![UI Screenshot 1](https://github.com/umabisht1324/repository/blob/branch/img1.png)
+
 
 ![UI Screenshot 2](images/img2.png)
 
