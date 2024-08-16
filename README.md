@@ -2,7 +2,7 @@
 
 **Name:** Uma Bisht  
 **Company:** CODTECH IT SOLUTIONS  
-**Inter ID:** CT6DS901  
+**Intern ID:** CT6DS901  
 **Domain:** Data Science  
 **Duration:** July-August 2024  
 
